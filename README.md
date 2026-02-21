@@ -240,20 +240,15 @@ For commercial customization or redistribution, please contact the author.
 
 ---
 
-# 🔥 Next Step (Very Important)
+# Screenshot
+<img width="1336" height="628" alt="image" src="https://github.com/user-attachments/assets/f250a7d1-1d73-4d20-89da-e22130de8188" />
+<img width="1016" height="521" alt="image" src="https://github.com/user-attachments/assets/6b64c684-6a1a-4bfd-bbb3-cc2003caea77" />
+<img width="1239" height="578" alt="image" src="https://github.com/user-attachments/assets/ad3c91f0-db27-48ad-8eb2-fccbe59d430b" />
+<img width="1365" height="399" alt="image" src="https://github.com/user-attachments/assets/50f4b345-f193-4869-a964-3f8d9fa2bde8" />
+<img width="1353" height="634" alt="image" src="https://github.com/user-attachments/assets/ad216d24-d7ec-4f99-916f-d80557c72c84" />
+<img width="1213" height="263" alt="image" src="https://github.com/user-attachments/assets/5e4877cb-693c-46a3-870d-cf92ff8a0e97" />
+<img width="1360" height="347" alt="image" src="https://github.com/user-attachments/assets/87366f6b-3b97-4098-b515-4440d61bb374" />
 
-Now you should:
 
-1. Add **screenshots** folder (`/public/screenshots`)
-2. Upload:
-
-   * Homepage screenshot
-   * Admin dashboard screenshot
-   * Services management screenshot
-3. Add images under:
-
-```
-## 📸 Screenshots
-```
 
 

@@ -4,10 +4,6 @@ A modern, fully dynamic business website built with **Laravel**, **Tailwind CSS*
 
 All frontend content — including logo, text sections, services, testimonials, and SEO metadata — is dynamically managed through a secure admin panel.
 
-🌐 **Live Website:** [https://shatcoksa.com](https://shatcoksa.com)
-
----
-
 ## 📌 Project Overview
 
 Shatco is a fully data-driven corporate website designed to eliminate hardcoded frontend content. Every visible section of the site is managed from an administrative dashboard.
@@ -248,6 +244,9 @@ For commercial customization or redistribution, please contact the author.
 <img width="1353" height="634" alt="image" src="https://github.com/user-attachments/assets/ad216d24-d7ec-4f99-916f-d80557c72c84" />
 <img width="1213" height="263" alt="image" src="https://github.com/user-attachments/assets/5e4877cb-693c-46a3-870d-cf92ff8a0e97" />
 <img width="1360" height="347" alt="image" src="https://github.com/user-attachments/assets/87366f6b-3b97-4098-b515-4440d61bb374" />
+
+
+🌐 **Live Website:** [https://shatcoksa.com](https://shatcoksa.com)
 
 
 

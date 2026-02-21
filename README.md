@@ -227,14 +227,14 @@ Can be deployed on:
 Full-Stack Laravel Developer
 GitHub: [https://github.com/EngineerMubashir](https://github.com/EngineerMubashir)
 
----
 
 ## 📄 License
 
-This project is developed for professional portfolio and business use.
-For commercial customization or redistribution, please contact the author.
+This project is released under a custom Portfolio License.
 
----
+It is published strictly for demonstration and learning purposes.
+Commercial usage, redistribution, or rebranding is prohibited without explicit permission from the author.
+
 
 # Screenshot
 <img width="1336" height="628" alt="image" src="https://github.com/user-attachments/assets/f250a7d1-1d73-4d20-89da-e22130de8188" />

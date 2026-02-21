@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap');
+@import './variables.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ====== Global Styles ====== */
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: var(--color-text-main, #ffffff);
+  background: linear-gradient(to bottom, var(--color-bg-start, #000000), var(--color-bg-end, #0a0a0a));
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* Smooth scrolling for anchor links */
+html {
+  scroll-behavior: smooth;
+}
+
+/* ====== Typography & Components ====== */
+@layer components {
+  .container-custom {
+    @apply container mx-auto px-4 md:px-6 lg:px-8 max-w-7xl;
+  }
+
+  .heading-xl {
+    @apply font-serif text-4xl md:text-5xl lg:text-6xl font-bold text-white;
+  }
+
+  .heading-lg {
+    @apply font-serif text-3xl md:text-4xl font-bold text-white;
+  }
+
+  .heading-md {
+    @apply font-serif text-2xl md:text-3xl font-bold text-white;
+  }
+
+  /* ====== Text Gradients ====== */
+  .orange-gradient {
+    background: var(--gradient-primary, linear-gradient(90deg, #ff8303, #ff9d3f, #ffb347));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .gold-gradient {
+    background: linear-gradient(90deg, #d4af37, #f5d76e, #caa64a);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  /* ====== Buttons ====== */
+  .btn-primary {
+    background-color: var(--color-primary, #ff8303);
+    color: var(--color-bg-end, #0a0a0a);
+    @apply px-6 py-3 font-medium rounded-sm transition-colors duration-300;
+  }
+
+  .btn-primary:hover {
+    background-color: var(--color-primary-dark, #ff6200);
+  }
+
+  .btn-outline {
+    border: 1px solid var(--color-primary, #ff8303);
+    color: var(--color-primary, #ff8303);
+    @apply px-6 py-3 font-medium rounded-sm transition-colors duration-300;
+  }
+
+  .btn-outline:hover {
+    background-color: rgba(255, 131, 3, 0.1);
+  }
+
+  /* ====== Utility Backgrounds & Colors ====== */
+  .bg-black-dark { background-color: var(--color-bg-start, #000000); }
+  .bg-black-light { background-color: var(--color-bg-end, #0a0a0a); }
+  .text-gold { color: #d4af37; }
+  .border-gold { border-color: #d4af37; }
+  .bg-gold { background-color: #d4af37; }
+  .bg-gold-gradient { background: linear-gradient(90deg, #d4af37, #f5d76e, #caa64a); }
+
+  /* ====== Card & Section Shadows / Glow ====== */
+  .shadow-orange {
+    box-shadow: 0 4px 20px rgba(255, 131, 3, 0.4);
+  }
+}

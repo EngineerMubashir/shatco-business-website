@@ -1,0 +1,18 @@
+:root {
+  /* ===== Brand Colors ===== */
+  --color-primary: #ff8303;         /* Main orange */
+  --color-primary-light: #ffa94d;
+  --color-primary-dark: #ff6200;
+
+  /* ===== Background & Text ===== */
+  --color-bg-start: #000000;        /* Black hero-style background start */
+  --color-bg-end: #0a0a0a;          /* Black hero-style background end */
+  --color-text-main: #ffffff;       /* White text */
+  --color-text-muted: #d1d5db;
+
+  /* ===== Gradients ===== */
+  --gradient-primary: linear-gradient(90deg, #ff8303, #ff9d3f, #ffb347);
+
+  /* ===== Borders ===== */
+  --border-primary: rgba(255, 131, 3, 0.3);
+}

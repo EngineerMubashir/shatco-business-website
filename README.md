@@ -246,12 +246,8 @@ Commercial usage, redistribution, or rebranding is prohibited without explicit p
 <img width="1360" height="347" alt="image" src="https://github.com/user-attachments/assets/87366f6b-3b97-4098-b515-4440d61bb374" />
 
 
-🌐 **Live Website:** [https://shatcoksa.com](https://shatcoksa.com)
-
-
-
-
 https://github.com/user-attachments/assets/4d4139a6-1da7-42fe-9e7e-6949907eed62
 
+🌐 **Live Website:** [https://shatcoksa.com](https://shatcoksa.com)
 
 
